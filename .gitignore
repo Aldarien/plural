@@ -1,2 +1,11 @@
 *.swp
 .DS_Store
+
+# Composer
+composer.lock
+/vendor/
+
+# Eclipse IDE
+.project
+.buildpath
+.settings
