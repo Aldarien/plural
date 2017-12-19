@@ -6,6 +6,14 @@ Plural is a library that provides natural language pluralization functions for P
 
 However, Plural can easily be extended to support any language. If your language is not supported, you are encouraged to contribute a rules file to the project.
 
+Original library in [mjackson/plural](https://github.com/mjackson/plural).
+
+### Installation
+
+~~~
+composer require aldarien/plural
+~~~
+
 ### Usage
 
     plural('dog');      # dogs
